@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+body{
+    overflow-x: hidden;
+}
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+.affix + .container-fluid {
+    padding-top: 70px;
+}
+.technology{
+    background-image: url('./allcat4.jpg');
+    width:auto;height:350px;
+    background-size: cover;
+}
+#head1a{
+ color:#49575F;
+ text-align: center;
+ font:bolder;
+
+ font-size: 40px;
+}
+#head2a{
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+    color: #6f8190;
+    position:relative;left:42%;
+}
+#p1a{
+    color:#49575F;
+    font-size: 14px;
+    text-align: justify;
+    position:relative;left:30%;
+   
+}

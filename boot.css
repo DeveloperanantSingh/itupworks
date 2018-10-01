@@ -1,0 +1,368 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+
+}
+body{
+    overflow-x: hidden;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+.affix + .container-fluid {
+    padding-top: 70px;
+}
+h5{
+position: relative;top: 18px;
+position: relative;left: 40px;
+}
+h6{
+    position:relative;top:-9px;
+    position:relative;right:-1150px;
+}
+#text1{
+    padding:50px;
+    position: relative;left: 20px;
+    position: relative;top: -10px;
+    color:#909EA9;
+}
+
+
+#main{
+    background-image:url("background-count-number.png");
+    height: 100%;
+    width: 100%;
+   
+}
+
+#head1{
+    text-align: center;
+    padding-top:5%;
+    color:white;
+    
+}
+
+#text2{
+    color:white;
+    text-align: center;
+
+}
+
+#head2{
+    color:white;
+    text-align: center;
+   
+   margin:  18% 0% 10% 0%;
+}
+
+#head3{
+    color:#49575F;
+    text-align: center;
+    font-weight: bold;
+    padding-top:7%;
+   
+}
+#head4{
+    color:#49575F;
+    text-align: center;
+    font-weight: bold;
+    padding: top 3%;
+   
+}
+#text3{
+    color:#49575F;
+    text-align: center;
+   
+}
+.circle{
+    height: 200px;width: 200px;
+    border-radius: 100px;
+    background-color:green;
+    padding: 25px;
+  
+  
+}
+.circle-ab{
+    height: 150px;width: 150px;
+    border-radius: 50%;
+    background-color:green;
+    border: 5px solid white;
+}
+
+
+#textsub{
+    padding: 15% 0% 0% 0%;
+}
+
+.z1 {
+    height: 300px;
+
+    background-color:#242C42;
+}
+
+
+.text{
+color:white;
+font-size: 35px;
+padding-left:90px;
+text-align: justify;
+position: relative;top: 60px;
+}
+
+.text2{
+color: white;
+padding-left:90px;
+line-height: 32px;
+text-align: justify;
+position: relative;top: 60px;
+
+}
+.z2{
+    background-color:#242C42;
+}
+.background-star{
+    background-image: url('./institute_banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300%;
+}
+.background-Career{
+    height: 300px;
+    font-size: 20px;
+   
+}
+.background-itu{
+    background-image: url('./Banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300%;
+}
+.background-Practical{
+    background-image: url('./sub-wicked.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300%;
+}
+.text3{
+    color:#8F989D;
+    text-align: center;
+    font-size: 18px;
+}
+.text4{
+    color: #8F989D;
+    font-size:30px;
+    font: bold;
+    position: relative;left: 400px;
+
+}
+.text5{
+    font-size: 30px;
+    color: #8F989D;
+    text-align: justify;
+}
+.text6{
+    font-size: 15px;
+    color: #8F989D;
+    text-align: justify;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10% 0% 3% 35%;
+    cursor: pointer;
+    
+}
+.button-1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 104px 2px;
+    cursor: pointer;
+   
+}
+
+.background{
+    height:800px;
+    
+    background-image: url('./leadership_banner2.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+   
+  }
+ #p1a{
+    color:#FFFFFF;
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+    position: relative;top: 30px;
+}
+#head1{
+    
+    color:#FFFFFF;
+    font-size: 35px;
+    position: relative;top:-40px;
+    
+    text-align: center;
+}
+.vikash{
+
+    height: 400px;
+    width: 350px;
+    background-color:white;
+    position: relative;right: -60px;
+}
+.vikash:hover{
+    background-color:#86BC42;
+}
+#head2a{
+    font-size: 23px;
+   color:#8F989D;
+    text-align: justify;
+    position: relative;top:50px;
+    position: relative;left: 60px;
+}
+#p2a{
+ font-size: 18px;
+ color:#8F989D;
+ text-align: justify;
+ position: relative;top: 60px;
+ position: relative;left: 60px;
+}
+.kamal {
+   
+    height: 400px;
+    width: 350px;
+    background-color:white;
+  position: relative;right:-130px;
+ 
+    
+
+}
+.kamal:hover{
+    background-color:#86BC42;
+}
+.sachine{
+   
+    height: 400px;
+    width: 350px;
+    background-color:white;
+    float: right;
+    position: relative;left:-50px;
+   }
+.sachine:hover{
+    background-color:#86BC42;
+}
+
+.link:hover{
+    background-color:yellow;
+} 
+.clear{
+    clear:both;
+} 
+#head3a{
+    color:white;
+    text-align: center;
+    text-align: justify;
+    font: bold;
+    position: relative;left: 70px;
+    font-size: 30px;
+}
+#p3a{
+    color: white;
+    text-align: justify;
+    font: bold;
+    position: relative;left: 70px;
+    font-size: 16px;
+}
+.button-3a{
+    
+    background-color: #242C42;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -3% 30% 0% 0%;
+    cursor: pointer;
+   
+}
+.button-3a:hover{
+    background-color:lavenderblush;
+    color: #4CAF50;
+}
+#p4a{
+    color: white;
+    text-align: justify;
+    font-size: 14px;
+    padding: 12% 5% 0% 5%;
+}
+#p5a{
+    color:white;
+    font-size: 14px;
+    text-align: justify;
+    padding: 5% 5% 0% 5%;
+    
+}
+#head4a{
+    color:#82B642;
+    font: bold;
+    font-size: 18px;
+  
+}
+#p6a{
+    color: white;
+   
+    text-align: justify;
+    
+}
+#p7a{
+    color: white;
+   
+    text-align: justify;
+    
+}
+#p8a{
+    color: white;
+    
+    text-align: justify;
+    
+}
+.flotter{
+    border: 1px solid silver;
+    
+}
+.flotter ul{
+list-style: none;
+font-size:12px;
+}
+.flotter ul li{
+    display: inline;
+    
+}
+.flotter ul li a{
+    padding: 8px;
+    color:#485465;
+
+}
+#p9b{
+    color:#485465;
+  
+}
